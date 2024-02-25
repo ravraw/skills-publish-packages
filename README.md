@@ -7,6 +7,8 @@
   Add your open source license, GitHub uses the MIT license.
 -->
 
+![example branch parameter.](https://github.com/ravraw/skills-publish-packages/actions/workflows/publish.yml/badge.svg)
+
 # Publish to GitHub Packages
 
 _Use GitHub Actions to publish your project to a Docker image._
