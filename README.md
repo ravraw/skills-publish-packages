@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses the MIT license.
 -->
 
-![example branch parameter.](https://github.com/ravraw/skills-publish-packages/actions/workflows/publish.yml/badge.svg)
+![example branch parameter.](https://github.com/ravraw/skills-publish-packages/actions/workflows/publish.yml/badge.svg?branch=main&event=push)
 
 # Publish to GitHub Packages
 
